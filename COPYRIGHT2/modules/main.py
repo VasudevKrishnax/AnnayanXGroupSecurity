@@ -115,7 +115,7 @@ FORBIDDEN_KEYWORDS = ["porn", "xxx", "sex", "NCERT", "XII", "page", "Ans", "meio
                      , "bc", "mc", "fuck", "loda", "lund", "chutiya", "Pussy","2 girls 1 cup", "Fuck","Fucker","2g1c","4r5e","5h1t","5hit","5ht","666","@$$","a s s","a s shole","a55",
   
   
-  "5h1t","5hit","5ht","666","@$$","a s s","a s shole","a55","Pussy","fu#","Fu#","Dick","FUk","Fuk","Pusssy","Pussssy","Pussssssssy","Puussy","Puusy"
+  "5h1t","5hit","5ht","666","@$$","a s s","a s shole","a55","Pussy","fu#","Fu#","Dick","FUk","Fuk","Pusssy","Pussssy","Pussssssssy","Puussy","Puusy","Chut","randike","Randike",
   "a55hole",
   "Lodu","Randi","Lund","Loda",
                      
