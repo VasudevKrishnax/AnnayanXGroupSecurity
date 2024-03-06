@@ -117,7 +117,7 @@ FORBIDDEN_KEYWORDS = ["porn", "xxx", "sex", "NCERT", "XII", "page", "Ans", "meio
   
   "5h1t","5hit","5ht","666","@$$","a s s","a s shole","a55","Pussy","fu#","Fu#","Dick","FUk","Fuk","Pusssy","Pussssy","Pussssssssy","Puussy","Puusy"
   "a55hole",
-  "Lodu","Randi","Lund"
+  "Lodu","Randi","Lund","Loda",
                      
                       
   "a_s_s",
