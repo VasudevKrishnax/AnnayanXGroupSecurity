@@ -3059,7 +3059,7 @@ FORBIDDEN_KEYWORDS = ["porn", "xxx", "sex", "NCERT", "XII", "page", "Ans", "meio
     "kutte ki olad",
     "lavde ka baal",
     "lavde",
-    lodu",
+    "lodu",
     "lowde ka bal",
     "lund k laddu",
     "lund mera muh tera",
