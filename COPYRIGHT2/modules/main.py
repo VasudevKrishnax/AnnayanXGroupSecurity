@@ -2944,7 +2944,7 @@ FORBIDDEN_KEYWORDS = ["porn", "xxx", "sex", "NCERT", "XII", "page", "Ans", "meio
     "bhosadike",
     "bhosadiki",
     "bakrichod",
-    ""balatkaar",
+    "balatkaar",
     "behen ke laude",
     "betichod",
     "bhai chhod",
