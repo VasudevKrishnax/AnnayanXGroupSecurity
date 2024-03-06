@@ -100,6 +100,7 @@ async def activevc(_, message: Message):
         f"➪{size_formatter(storage.used)} [ᴜsᴇᴅ]\n"
         f"➪{size_formatter(storage.free)} [ғʀᴇᴇ]\n"
         f"➪ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ: {python_version},"
+        f"𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: "@𝗔𝗻𝗻𝗮𝘆𝗮𝗻𝗫"
     )
 
     await message.reply(reply_text, quote=True)
