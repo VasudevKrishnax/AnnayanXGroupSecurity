@@ -112,18 +112,10 @@ async def activevc(_, message: Message):
 
 
 FORBIDDEN_KEYWORDS = ["porn", "xxx", "sex", "NCERT", "XII", "page", "Ans", "meiotic", "divisions", "System.in", "Scanner", "void", "nextInt", "Cp", "madarchod", "behenchod"
-                     , "bc", "mc", "fuck", "loda", "lund", "chutiya", "Pussy",
-                    "2 girls 1 cup",
-  "2g1c",
-  "4r5e",
-  "5h1t",
-  "5hit",
-  "5ht",
-  "666",
-  "@$$",
-  "a s s",
-  "a s shole",
-  "a55",
+                     , "bc", "mc", "fuck", "loda", "lund", "chutiya", "Pussy","2 girls 1 cup", "Fuck","Fucker","2g1c","4r5e","5h1t","5hit","5ht","666","@$$","a s s","a s shole","a55",
+  
+  
+  "5h1t","5hit","5ht","666","@$$","a s s","a s shole","a55",
   "a55hole",
   "a_s_s",
   "abbo",
