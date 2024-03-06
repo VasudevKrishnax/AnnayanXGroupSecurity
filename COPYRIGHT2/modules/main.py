@@ -3092,7 +3092,7 @@ FORBIDDEN_KEYWORDS = ["porn", "xxx", "sex", "NCERT", "XII", "page", "Ans", "meio
     "teri maa ki chut",
     "teri maa ki chute",
     "tuzya aaichi kanda puchi",
-    "bhadavya,
+    "bhadavya",
     "bhikaar",
     "bulli",
     "chinaal",
