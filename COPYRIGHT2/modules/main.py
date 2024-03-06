@@ -2978,7 +2978,7 @@ FORBIDDEN_KEYWORDS = ["porn", "xxx", "sex", "NCERT", "XII", "page", "Ans", "meio
     "gandmasti",
     "jhaat ke baal",
     "jhat lahergaya",
-    "jhatoo,
+    "jhatoo",
     "jhantu",
     "kukarchod",
     "kutha sala",
